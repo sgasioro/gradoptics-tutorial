@@ -1,6 +1,23 @@
 # GradOptics tutorial
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgasioro/gradoptics-tutorial/blob/main/GradOptics%20Tutorial.ipynb)
 
+## Environment setup
+Colab should (hopefully) work. For local install, almost everything is version agnostic (latest should be ok, PyTorch just needs to be >=1.11). 
+
+GradOptics rendering will run much faster on a GPU (CUDA), but will run on CPU if needed. PyTorch installs can be a bit tricky, feel free to use the latest PyTorch 
+and follow: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+
+Requires:
+```
+torch
+numpy
+gradoptics
+numpy
+matplotlib
+tqdm
+notebook
+```
+
 ## Extra links
 [Intro slides](https://docs.google.com/presentation/d/1syT_ISaqWS3ucwZNixK7Gy12SunZBHi_UC_LE8hNL3s/edit?usp=sharing)
 
