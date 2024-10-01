@@ -7,7 +7,7 @@
 **Neural fields tutorial:** contains some useful snippets for mulitple camera imaging, demos 3D reconstruction:
 [https://github.com/sgasioro/neural-fields-tutorial](https://github.com/sgasioro/neural-fields-tutorial)
 
-**Tutorial on differentiable programming at LBNL:** targeted at HEP, but gives an overview/runs some simple demos of fitting parameters with PyTorch:
+**Tutorial on differentiable programming:** Given at LBNL. Targeted at HEP, but gives an overview/runs some simple demos of fitting parameters with PyTorch:
 
 Indico with recordings: [https://indico.physics.lbl.gov/event/2850/timetable/?view=standard#13-differentiable-programming](https://indico.physics.lbl.gov/event/2850/timetable/?view=standard#13-differentiable-programming)
 
